@@ -1,8 +1,6 @@
-package EXP1;
-
 import java.util.*;
 
-public class SimpleJava{
+public class EXP1{
     public static void main(String args[]){
         String name ="Roshan Reddy";
         String Regno ="23MIC7274";
